@@ -3,7 +3,8 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/KalyakinAG/frontend-project-lvl4/workflows/hexlet-check/badge.svg)](https://github.com/KalyakinAG/frontend-project-lvl4/actions)
 
-## Requirements
+[Приложение heroku](https://frontend-project-lvl4-ka.herokuapp.com)
+## Установка
 
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
